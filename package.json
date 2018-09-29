@@ -1,0 +1,36 @@
+{
+  "name": "september2018",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developer0892/september.git"
+  },
+  "author": "viktor",
+  "dependencies": {
+    "express": "^4.16.3",
+    "history": "^4.7.2",
+    "immutable": "^3.8.2",
+    "key-mirror": "^1.0.1",
+    "path": "^0.12.7",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-redux": "^5.0.7",
+    "react-router-redux": "^4.0.8",
+    "redux": "^4.0.0",
+    "redux-devtools-extension": "^2.13.5",
+    "redux-immutable": "^4.0.0",
+    "redux-saga": "^0.16.0",
+    "redux-thunk": "^2.3.0",
+    "webpack": "^4.20.2"
+  },
+  "devDependencies": {
+    "prop-types": "^15.6.2",
+    "webpack-dev-middleware": "^3.4.0",
+    "webpack-hot-server-middleware": "^0.5.0"
+  }
+}
